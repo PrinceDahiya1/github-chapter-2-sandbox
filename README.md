@@ -1,1 +1,1 @@
-try git pull
+Was Just learning git
